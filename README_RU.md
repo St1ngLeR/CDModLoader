@@ -37,13 +37,13 @@
 ```
 modloader/
 └── awesome_mod/
-├── trkdata/
-├── textures/
-└── ...
+    ├── trkdata/
+    ├── textures/
+    └── ...
 └── yet_another_awesome_mod/
-├── sounds/
-├── editor/
-└── ...
+    ├── sounds/
+    ├── editor/
+    └── ...
 ```
 
 ## Удаление модов
