@@ -10,6 +10,7 @@
 ## Table of content
 - [Installation & first launch](#installation--first-launch)
 - [Installing mods](#installing-mods)
+- [Uninstalling mods](#uninstalling-mods)
 - [Setting up the ModLoader](#setting-up-the-modloader)
 - [Setting up the profiles](#setting-up-the-profiles)
 - [Mod profile launch argument](#mod-profile-launch-argument)
@@ -44,6 +45,10 @@ modloader/
     ├── editor/
     └── ...
 ```
+
+## Uninstalling mods
+
+To remove modifications, simply delete their individual folders within `modloader`. If you wish to keep the mod files but not use them, you should disable these mods in the relevant profiles. (see [below](#setting-up-the-profiles))
 
 ## Setting up the ModLoader
 
